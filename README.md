@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Merhaba
 
-<!--
-**MehmetSNR/MehmetSnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gerçek projeler geliştirerek öğrenmeye odaklanan bir geliştiriciyim.  
+Son dönemde **Next.js + Supabase + Vercel** stack’i ile küçük ölçekli bir e-ticaret projesi geliştirdim.
 
-Here are some ideas to get you started:
+### 🛠️ Kullandığım Teknolojiler
+- Next.js (App Router)
+- Supabase (Auth, Database, Storage)
+- Tailwind CSS
+- Vercel
+- Google Search Console / SEO optimizasyonları
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Proje Deneyimi
+Bu projede:
+- SEO uyumlu kategori ve ürün sayfaları oluşturdum  
+- Performans ve indexlenme problemleri üzerinde çalıştım  
+- Gerçek kullanıcı senaryolarını dikkate alarak mimari kararlar aldım  
+
+Canlı proje:
+👉 https://tarimmarketimiz.com
+
+Kod paylaşımı sınırlı olsa da mimari, SEO veya deployment konularında fikir alışverişine açığım.
